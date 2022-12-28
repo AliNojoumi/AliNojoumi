@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**AliNojoumi/AliNojoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ali Nojoumi, A Front-End developer and UI/UX designer 🧑‍💻. I really enjoy building stuff and learning different things by that.
 
-Here are some ideas to get you started:
+I'm familiar with: 
+- HTML
+- CSS
+- JS
+- Tailwind CSS 
+- Bootstrap
+- React
+- Python
+- Git and GitHub
+- Figma, Adobe Illustrator, Adobe Photoshop, Adobe XD
+- ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in 😀:
+- Front-End developing 🌐
+- UI/UX designing 🖼️
+- Building websites ⚒️
+
+Also i'm interested in:
+- Crypto, Blockchain and Decentralized technology 🪙
+- Economics 🏦
+- Playing video games 🎮
+- Nature 🏞️
