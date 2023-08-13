@@ -1,14 +1,14 @@
 Hi there 👋
 
-I'm Ali Nojoumi, A Front-End developer and UI/UX designer 🧑‍💻. I really enjoy building stuff and learning different things by that.
+I'm Ali Nojoumi, A Front-End developer and UI/UX designer 🧑‍💻. I really enjoy building websites and learning different things by that.
 
 I'm familiar with: 
 - HTML
 - CSS
 - JS
+- React JS
 - Tailwind CSS 
 - Bootstrap
-- React
 - Python
 - Git and GitHub
 - Figma, Adobe Illustrator, Adobe Photoshop, Adobe XD
