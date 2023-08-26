@@ -7,11 +7,10 @@ I'm familiar with:
 - CSS
 - JS
 - React JS
-- Next JS
+- Redux, Redux Toolkit
 - Tailwind CSS 
 - Bootstrap
 - Git and GitHub
-- Python
 - Figma, Adobe Illustrator, Adobe Photoshop, Adobe XD
 - ...
 
