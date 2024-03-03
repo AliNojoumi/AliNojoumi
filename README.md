@@ -1,8 +1,3 @@
-![Header-Banner](https://github.com/AliNojoumi/AliNojoumi/assets/79444570/542a0308-82b6-4bb7-bb69-18065e2c9156)
-# 💫 About Me:
- I’m looking to collaborate on exciting Vue.js and Nuxt.js projects where creativity and innovation thrive, joining forces with fellow developers to build remarkable digital experiences.<br><br>🤝 I’m looking for help with mastering advanced concepts in Vue.js and Nuxt.js, seeking guidance from seasoned developers to sharpen my skills and overcome any challenges along the way.<br><br>🌱 I’m currently learning the ins and outs of Vue.js and Nuxt.js, exploring their powerful features and best practices to enhance my proficiency in frontend development.<br><br>💬 Ask me about my journey into the realm of Vue.js and Nuxt.js, the projects I'm currently working on, or any questions you have about frontend development and JavaScript technologies.<br><br>⚡ Fun fact: Did you know that Vue.js was created by Evan You after he worked with AngularJS on several projects? He wanted something simpler and more lightweight, which led him to develop Vue.js, aiming to combine the best features of Angular and React.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-nojoumi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ali_nojoumi) 
 
